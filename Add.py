@@ -7,4 +7,6 @@ def add(a,b):
 def mul(a,b):
     s=a*b
     return s
+
+print("Hi mul")
         
