@@ -15,4 +15,6 @@ def something:
     print("Hello world")
 
  print("Hello my boy")   
+
+ print("Haha")
         
