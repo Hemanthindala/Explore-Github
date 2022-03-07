@@ -14,5 +14,5 @@ def avg(a,b):
 def something:
     print("Hello world")
 
- print("Hello")   
+ print("Hello my boy")   
         
